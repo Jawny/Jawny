@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Somethings About me:
+Some things About me:
 - Incoming DevOps Intern at NVIDIA
 - Former DevOps Intern at Philips
 - Former SWE Intern at Excelar

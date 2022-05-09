@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Somethings About me:
+- Incoming DevOps Intern at NVIDIA
+- Former DevOps Intern at Philips
+- Former SWE Intern at Excelar
 <!--
 **Jawny/Jawny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

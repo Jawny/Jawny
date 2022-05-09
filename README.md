@@ -4,6 +4,8 @@ Some things About me:
 - Incoming DevOps Intern at NVIDIA
 - Former DevOps Intern at Philips
 - Former SWE Intern at Excelar
+
+[Let's connect!](https://www.linkedin.com/in/johnny-liao/)
 <!--
 **Jawny/Jawny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Some things About me:
-- Solutions Architect Intern at NVIDIA
+- Product Architect Intern at NVIDIA
 - Former DevOps Intern at Philips
 - Former SWE Intern at Excelar
 

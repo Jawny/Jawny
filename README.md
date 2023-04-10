@@ -1,7 +1,8 @@
 ### Hi there 👋
+Looking for SWE Opportunities!
 
 Some things About me:
-- Product Architect Intern at NVIDIA
+- Former Product Architect Intern at NVIDIA
 - Former SWE Intern at Philips
 - Former SWE Intern at Excelar
 

@@ -1,6 +1,8 @@
 ### Hi there 👋
 Looking for SWE Opportunities!
 
+Check out my current project: cardtrackr.ca
+
 Some things About me:
 - Former Product Architect Intern at NVIDIA
 - Former SWE Intern at Philips

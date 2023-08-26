@@ -1,7 +1,7 @@
 ### Hi there 👋
 Looking for SWE Opportunities!
 
-Working on travel rewards focused finance app: [Cardtrackr](https://www.cardtrackr.ca)
+Working on a travel rewards focused finance app: [Cardtrackr](https://www.cardtrackr.ca)
 
 Some things About me:
 - Former Product Architect Intern at NVIDIA

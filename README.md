@@ -1,13 +1,6 @@
 ### Hi there 👋
-Looking for SWE Opportunities!
 
 Working on a travel rewards focused finance app: [Cardtrackr](https://www.cardtrackr.ca)
-
-Some things About me:
-- Incoming SWE Intern at NVIDIA
-- Former Product Architect Intern at NVIDIA
-- Former SWE Intern at Philips
-- Former SWE Intern at Excelar
 
 [Let's connect!](https://www.linkedin.com/in/johnny-liao/)
 <!--
